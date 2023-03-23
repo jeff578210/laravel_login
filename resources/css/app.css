@@ -1,0 +1,15 @@
+.indexDiv{
+    /* background-color: aqua; */
+    background-color: white;
+
+    border: 1px solid white;
+    box-sizing: border-box;
+    flex-direction: column;
+    outline: none;
+
+    border-radius: 10px;
+    cursor:alias;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+}
